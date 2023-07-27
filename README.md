@@ -15,7 +15,7 @@ Individual development of each sensor
 Development of bluetooth APP for visualisation and data management
 
 ## Current status
-###Hardware:
+### Hardware:
 pH sensor: Done and tested
 EC sensor: Done and tested
 Pressure sensor: Done and tested
@@ -23,12 +23,12 @@ Temperature sensor: Done and tested
 Digital scale reader: Still not getting data from Kern Digital Scales
 OLED display: Done and tested
 
-###Software:
+### Software:
 All sensors: Done
 BLE APP: Android app Done and in testing phase
          IOS app not ready
 
-##BLE APP:
+## BLE APP:
 1. Select to which kit or kits to connect and connect
 2. See data in real time or Calibrate the sensor (send commands and wait for responses)
 3. Choose name of the project and time of data gathering (maybe save data every 30 seconds or 5 minutes)
