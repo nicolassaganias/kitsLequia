@@ -1,30 +1,30 @@
 # kitsLequia
-Sistemas de monitorización de parámetros del agua para investigación científica de tratamiento de aguas residuales
+Water monitoring systems for scientific research on wastewater treatment
 
 ### Hardware:
 Arduino Bluno Nano
-Sensor de pH
-Sensor de EC
-Sensor de presión
-Sensor de temperatura
-Lector de balanzas digitales
-Pantalla OLED
+pH sensor
+EC sensor
+Pressure sensor
+Temperature sensor
+Digital scale reader
+OLED Display
 
 ### Software:
-Desarrollo individual de cada sensor
-Desarrollo APP bluetooth para visualización y manejo de datos
+Individual development of each sensor
+Development of bluetooth APP for visualisation and data management
 
-## Estado Actual
+## Current status
 ###Hardware:
-Sensor de pH: Done and tested
-Sensor de EC: Done and tested
-Sensor de presión: Done and tested
-Sensor de temperatura: Done and tested
-Lector de balanzas digitales: Still not getting data from Kern Digital Scales
-Pantalla OLED: Done and tested
+pH sensor: Done and tested
+EC sensor: Done and tested
+Pressure sensor: Done and tested
+Temperature sensor: Done and tested
+Digital scale reader: Still not getting data from Kern Digital Scales
+OLED display: Done and tested
 
 ###Software:
-All sensors: done
+All sensors: Done
 BLE APP: Android app Done and in testing phase
          IOS app not ready
 
